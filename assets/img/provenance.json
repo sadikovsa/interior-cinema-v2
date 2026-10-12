@@ -1,0 +1,10 @@
+{
+  "type": "DEMO / AI generated",
+  "generator": "image_gen.imagegen",
+  "sourceConcept": "../../../interior-demo/.studio/v2/comps/r2-horizon.png",
+  "heroSource": "exec-c7fcda51-beb1-4f77-80c8-920285fe4824.png",
+  "interiorSource": "exec-404fc082-db81-4032-a164-6832a3ebf7f9.png",
+  "edits": "Scene plate: remove all text/UI preserving architecture. Destination: inside same residence matching light/materials.",
+  "additionalProjects": "Existing studio AI mineral-bedroom and timber-house; original repository path: interior-cinema/assets/img/manifest.json",
+  "conversion": "WebP quality88; widths960/1672, no composition editing"
+}

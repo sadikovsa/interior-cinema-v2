@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "package": "interior-cinema-v2",
+  "source_repository": "sadikovsa/codex_studio",
+  "source_root_directory": "interior-cinema-v2",
+  "source_release_commit": "9e343c887206b70f0b868fbf420c1a4e005db77b",
+  "integration_main_checkpoint": "e074ddf",
+  "source_final_175_runtime_sha256": "7a619e74dbb829cb788c252ca954495ff9fcc97126aa7fac7cf89b230bf26a72",
+  "root_checkpoint_retained": true,
+  "planned_repository": "sadikovsa/interior-cinema-v2",
+  "planned_pages_url": "https://sadikovsa.github.io/interior-cinema-v2/",
+  "publication_status": "prepared_not_verified",
+  "html_body_original_sha256": "5db4bb7e7d04896c591294ee53e6bab80f1afec77c4718b234c176c9e674beb7",
+  "metadata_change": "private origin plus variant path replaced with this standalone Pages base; UI unchanged",
+  "source_inventory": "SOURCE-INVENTORY.json",
+  "public_build_inventory": "BUILD-INVENTORY.json"
+}

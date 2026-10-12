@@ -1,0 +1,44 @@
+[
+  {
+    "family": "Prata",
+    "subset": "cyrillic-ext",
+    "file": "prata-cyrillic-ext.woff2",
+    "source": "https://fonts.gstatic.com/s/prata/v22/6xKhdSpbNNCT-sWCCm7JLQ.woff2",
+    "sha256": "1a71ca94e943aac8154d195f9ea21959d374ebf3a3a9420651d0dbb46253f897"
+  },
+  {
+    "family": "Prata",
+    "subset": "cyrillic",
+    "file": "prata-cyrillic.woff2",
+    "source": "https://fonts.gstatic.com/s/prata/v22/6xKhdSpbNNCT-sWLCm7JLQ.woff2",
+    "sha256": "3392de5a383deac60effcad2beb8b847f40eb0eb200ffd4888c3e13d6e40845f"
+  },
+  {
+    "family": "Prata",
+    "subset": "latin",
+    "file": "prata-latin.woff2",
+    "source": "https://fonts.gstatic.com/s/prata/v22/6xKhdSpbNNCT-sWPCm4.woff2",
+    "sha256": "1b85a8c794709747c9f689b791984c430a2d9716a5cf9440d955bd7d20dad9d0"
+  },
+  {
+    "family": "IBM Plex Sans",
+    "subset": "cyrillic-ext",
+    "file": "ibmplexsans-cyrillic-ext.woff2",
+    "source": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxTKYbABA.woff2",
+    "sha256": "7d0037a170882a49e65a45c38ef195237bb07b1cc791d078379f0ac0d7ae1935"
+  },
+  {
+    "family": "IBM Plex Sans",
+    "subset": "cyrillic",
+    "file": "ibmplexsans-cyrillic.woff2",
+    "source": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxaKYbABA.woff2",
+    "sha256": "9409ee21811f0f5272b7e1d828fe8838005b0573481ef906e7e55b63f6610ab0"
+  },
+  {
+    "family": "IBM Plex Sans",
+    "subset": "latin",
+    "file": "ibmplexsans-latin.woff2",
+    "source": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxeKYY.woff2",
+    "sha256": "e2291e842cf5af167122a22881a740c7f2dda7716f1e8cd76680264f4a859470"
+  }
+]

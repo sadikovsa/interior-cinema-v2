@@ -1,0 +1,66 @@
+[
+  {
+    "key": "horizon-bedroom",
+    "stem": "bedroom",
+    "variant": "cinema",
+    "source": "generated master; original PNG retained outside production",
+    "tool": "image_gen.imagegen",
+    "masterSha256": "37d47b7526135882b9d8caba0ef87946fb256ff94eca369ecd6f4375f49ff226",
+    "files": [
+      {
+        "filename": "bedroom-1122.webp",
+        "width": 1122,
+        "height": 1402,
+        "bytes": 276154,
+        "sha256": "ed0516d401298bb4003047884e41327a057a9502b85d2f2fc8135a5d2cce21a7"
+      },
+      {
+        "filename": "bedroom-960.webp",
+        "width": 960,
+        "height": 1200,
+        "bytes": 180058,
+        "sha256": "bba565b946dc3c78827c73544c692f9894e7b39a899bdf354b911170e9cfbf6b"
+      },
+      {
+        "filename": "bedroom-640.webp",
+        "width": 640,
+        "height": 800,
+        "bytes": 100340,
+        "sha256": "44645163b8d6787f0407aaac8247a00e3d47bd25b339544bfcdd5a7d045116e1"
+      }
+    ],
+    "prompt": "interior-demo/.studio/v2/content-r3/prompts/assets/horizon-bedroom.txt"
+  },
+  {
+    "key": "horizon-bench",
+    "stem": "bench",
+    "variant": "cinema",
+    "source": "generated master; original PNG retained outside production",
+    "tool": "image_gen.imagegen",
+    "masterSha256": "457beaef90f5192e93c43393ace448692a0ddeb7a23869d340d4fbf32c785c99",
+    "files": [
+      {
+        "filename": "bench-1448.webp",
+        "width": 1448,
+        "height": 1086,
+        "bytes": 202598,
+        "sha256": "051e1370a3c3fae4744f03ff123aa3fc5ef5ffe7233796fb33f0592a5199053d"
+      },
+      {
+        "filename": "bench-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 102742,
+        "sha256": "9d72363aa555a2d97d096b158729c476fb04bbfca09619a4f37857bde1b964d4"
+      },
+      {
+        "filename": "bench-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 47038,
+        "sha256": "6ceecd6e09e50c301367ff269a74a4357797c4e7c1ec4e1804882c89b33dd955"
+      }
+    ],
+    "prompt": "interior-demo/.studio/v2/content-r3/prompts/assets/horizon-bench.txt"
+  }
+]
