@@ -1,26 +1,29 @@
 {
   "package": "interior-cinema-v2",
-  "status": "VERIFIED_LIVE",
   "repository_url": "https://github.com/sadikovsa/interior-cinema-v2",
   "repository_id": 1415153914,
   "repository_private": false,
   "live_pages_url": "https://sadikovsa.github.io/interior-cinema-v2/",
-  "runtime_source_commit": "19ef7c7d01705f949a1f36bf081614c50904f801",
-  "pages_release_commit": "0f81ccb0a2028fe5e301a65dcfb439a5c2052299",
+  "status": "VERIFIED_LIVE",
+  "runtime_source_commit": "f9ab6695e9e8faf90f2818e41178b14fb96df79f",
+  "pages_release_commit": "25f21f74e7fce4f40c85d5a3bf4993c91afaa36e",
   "source_and_pages_push_verified": true,
   "build_status": "built",
+  "pages_build_matches_pushed_gh_pages": true,
   "pages_source": {
     "branch": "gh-pages",
     "path": "/"
   },
-  "live_http_verified_at": "2026-10-12T06:17:24.500855+00:00",
+  "live_http_verified_at": "2026-10-12T10:41:40.572937+00:00",
   "http_files_verified": 52,
   "all_http_files_exact_bytes": true,
-  "git_control_file": ".nojekyll not an HTTP asset",
   "live_browser_qa": "QA_PASS_WITH_NOTES",
   "normal_contexts": 2,
   "fallback_contexts": 2,
   "field_INP_FPS": "NOT_MEASURED",
-  "publication_connection": "Composio decoflowers-publishing / authenticated sadikovsa",
-  "latest_documentation_commit": "Read repository Git history; runtime and gh-pages unchanged after proof/readme updates"
+  "latest_source_documentation_commit": "see Git main history; runtime SHA above remains fixed",
+  "previous_release": {
+    "runtime_source_commit": "19ef7c7d01705f949a1f36bf081614c50904f801",
+    "pages_release_commit": "0f81ccb0a2028fe5e301a65dcfb439a5c2052299"
+  }
 }

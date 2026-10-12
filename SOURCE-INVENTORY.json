@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "scope": "current edited source; historical original-copy inventory is in history/SOURCE-INVENTORY.before-cleanup.json",
+  "scope": "Current source files; updated documentation/publication proofs included. Runtime bytes remain verified by BUILD-INVENTORY.",
   "all_body_assets_identical": false,
   "files": [
     {
@@ -19,22 +19,22 @@
     },
     {
       "path": ".studio/design.json",
-      "bytes": 9175,
-      "sha256": "528ce152f5d460a3a143056c847efa562839ce0e4fe78aad0367041a75f80ecf",
+      "bytes": 15330,
+      "sha256": "82f3ab188c50a0151b0de10742323c7d17aa2715c6f9e59606488b0ff38083a7",
       "baseline_sha256": "528ce152f5d460a3a143056c847efa562839ce0e4fe78aad0367041a75f80ecf",
       "change": "unchanged"
     },
     {
       "path": "DESIGN.md",
-      "bytes": 13390,
-      "sha256": "9c97637ff177a3ad85069eb06115f86943b9e98caf4fe641097bd56f8fdd8c17",
+      "bytes": 19458,
+      "sha256": "1f095f1127f03f1ff1c7a8e34a9d2d984426b0da45be4a45ebcfb46382cd5e83",
       "baseline_sha256": "9c97637ff177a3ad85069eb06115f86943b9e98caf4fe641097bd56f8fdd8c17",
       "change": "unchanged"
     },
     {
       "path": "PUBLICATION.json",
-      "bytes": 1071,
-      "sha256": "3bb0f5cee7320c3aedce332c0c7c8ba101eaeaad7076571b1a83070ebdba3a83",
+      "bytes": 1123,
+      "sha256": "4009cbfff375015196e965cc5371a4f8a55c4ea14b135f82e1653139c0e945b5",
       "baseline_sha256": "3bb0f5cee7320c3aedce332c0c7c8ba101eaeaad7076571b1a83070ebdba3a83",
       "change": "unchanged"
     },
