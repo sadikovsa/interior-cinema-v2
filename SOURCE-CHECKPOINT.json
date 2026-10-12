@@ -9,9 +9,13 @@
   "root_checkpoint_retained": true,
   "planned_repository": "sadikovsa/interior-cinema-v2",
   "planned_pages_url": "https://sadikovsa.github.io/interior-cinema-v2/",
-  "publication_status": "prepared_not_verified",
+  "publication_status": "published_verified",
   "html_body_original_sha256": "5db4bb7e7d04896c591294ee53e6bab80f1afec77c4718b234c176c9e674beb7",
   "metadata_change": "private origin plus variant path replaced with this standalone Pages base; UI unchanged",
   "source_inventory": "SOURCE-INVENTORY.json",
-  "public_build_inventory": "BUILD-INVENTORY.json"
+  "public_build_inventory": "BUILD-INVENTORY.json",
+  "live_pages_url": "https://sadikovsa.github.io/interior-cinema-v2/",
+  "public_runtime_source_commit": "19ef7c7d01705f949a1f36bf081614c50904f801",
+  "pages_release_commit": "0f81ccb0a2028fe5e301a65dcfb439a5c2052299",
+  "publication_proof": "PUBLICATION.json"
 }
