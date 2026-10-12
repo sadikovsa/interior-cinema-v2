@@ -1,0 +1,15 @@
+{
+  "package": "interior-cinema-v2",
+  "copied_source_files": 56,
+  "public_files": 53,
+  "public_bytes": 2534548,
+  "changed_from_original": [
+    "index.html:head_metadata_base_only"
+  ],
+  "original_body_sha256": "5db4bb7e7d04896c591294ee53e6bab80f1afec77c4718b234c176c9e674beb7",
+  "body_and_all_copied_assets_identical": true,
+  "static_local_references_checked": 85,
+  "second_build_inventory_identical": true,
+  "planned_pages_base": "https://sadikovsa.github.io/interior-cinema-v2/",
+  "deployment_verified": false
+}

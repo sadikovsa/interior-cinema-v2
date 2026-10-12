@@ -1,510 +1,434 @@
 {
-  "schema_version": 1,
-  "copied_files": 56,
+  "schema_version": 2,
+  "scope": "current edited source; historical original-copy inventory is in history/SOURCE-INVENTORY.before-cleanup.json",
+  "all_body_assets_identical": false,
   "files": [
     {
-      "path": "index.html",
-      "original_path": "interior-cinema-v2/index.html",
-      "original_bytes": 37343,
-      "copied_bytes": 37189,
-      "original_sha256": "9f09e55f25bcd7a000a5e253b2c33dbc4f6cb81df57ec3126200285dc00ec17a",
-      "copied_sha256": "02d98ad4171d2837995b8b7d1a2f825557cf4d975361260b92b3cc92be696e0f",
-      "change": "head_metadata_base_only"
+      "path": ".gitignore",
+      "bytes": 19,
+      "sha256": "862263fa1f46c20f0d1e4dac5ffcc75abd55c08211b2c3864c5f8764b9d87793",
+      "baseline_sha256": "862263fa1f46c20f0d1e4dac5ffcc75abd55c08211b2c3864c5f8764b9d87793",
+      "change": "unchanged"
     },
     {
-      "path": "robots.txt",
-      "original_path": "interior-cinema-v2/robots.txt",
-      "original_bytes": 145,
-      "copied_bytes": 145,
-      "original_sha256": "3f6420c0e4a40d2e5c00ae798cb5d9b38210c904ed946a015e6600316b8974e3",
-      "copied_sha256": "3f6420c0e4a40d2e5c00ae798cb5d9b38210c904ed946a015e6600316b8974e3",
-      "change": "byte_identical"
-    },
-    {
-      "path": "sitemap.xml",
-      "original_path": "interior-cinema-v2/sitemap.xml",
-      "original_bytes": 166,
-      "copied_bytes": 166,
-      "original_sha256": "8d22e5c289583cb613a481e23b49fd9b06801ab3a38976575c61e3d167ceffc3",
-      "copied_sha256": "8d22e5c289583cb613a481e23b49fd9b06801ab3a38976575c61e3d167ceffc3",
-      "change": "byte_identical"
-    },
-    {
-      "path": "site.webmanifest",
-      "original_path": "interior-cinema-v2/site.webmanifest",
-      "original_bytes": 537,
-      "copied_bytes": 537,
-      "original_sha256": "31a1ed8e75a3e491dc8f299f3e7a5b946beaf5a34e1ee5045bc40510322859f2",
-      "copied_sha256": "31a1ed8e75a3e491dc8f299f3e7a5b946beaf5a34e1ee5045bc40510322859f2",
-      "change": "byte_identical"
-    },
-    {
-      "path": "DESIGN.md",
-      "original_path": "interior-cinema-v2/DESIGN.md",
-      "original_bytes": 13390,
-      "copied_bytes": 13390,
-      "original_sha256": "9c97637ff177a3ad85069eb06115f86943b9e98caf4fe641097bd56f8fdd8c17",
-      "copied_sha256": "9c97637ff177a3ad85069eb06115f86943b9e98caf4fe641097bd56f8fdd8c17",
-      "change": "byte_identical"
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "baseline_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "change": "unchanged"
     },
     {
       "path": ".studio/design.json",
-      "original_path": "interior-cinema-v2/.studio/design.json",
-      "original_bytes": 9175,
-      "copied_bytes": 9175,
-      "original_sha256": "528ce152f5d460a3a143056c847efa562839ce0e4fe78aad0367041a75f80ecf",
-      "copied_sha256": "528ce152f5d460a3a143056c847efa562839ce0e4fe78aad0367041a75f80ecf",
-      "change": "byte_identical"
+      "bytes": 9175,
+      "sha256": "528ce152f5d460a3a143056c847efa562839ce0e4fe78aad0367041a75f80ecf",
+      "baseline_sha256": "528ce152f5d460a3a143056c847efa562839ce0e4fe78aad0367041a75f80ecf",
+      "change": "unchanged"
+    },
+    {
+      "path": "DESIGN.md",
+      "bytes": 13390,
+      "sha256": "9c97637ff177a3ad85069eb06115f86943b9e98caf4fe641097bd56f8fdd8c17",
+      "baseline_sha256": "9c97637ff177a3ad85069eb06115f86943b9e98caf4fe641097bd56f8fdd8c17",
+      "change": "unchanged"
+    },
+    {
+      "path": "PUBLICATION.json",
+      "bytes": 1071,
+      "sha256": "3bb0f5cee7320c3aedce332c0c7c8ba101eaeaad7076571b1a83070ebdba3a83",
+      "baseline_sha256": "3bb0f5cee7320c3aedce332c0c7c8ba101eaeaad7076571b1a83070ebdba3a83",
+      "change": "unchanged"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3488,
+      "sha256": "b37794a1341d6a7ced98a2dc39e3549aab96e5b16290d738676080caa311a4d0",
+      "baseline_sha256": "804ae9ec0e9106e09dde476f762277f07e0e333312e64c9f11f88a63bfc680b6",
+      "change": "new_or_changed"
     },
     {
       "path": "assets/css/base.css",
-      "original_path": "interior-cinema-v2/assets/css/base.css",
-      "original_bytes": 2088,
-      "copied_bytes": 2088,
-      "original_sha256": "eb49dafb7b95ea111597aa524d95039d3107bde4775e7d5d1b01dff6009a463c",
-      "copied_sha256": "eb49dafb7b95ea111597aa524d95039d3107bde4775e7d5d1b01dff6009a463c",
-      "change": "byte_identical"
+      "bytes": 2088,
+      "sha256": "eb49dafb7b95ea111597aa524d95039d3107bde4775e7d5d1b01dff6009a463c",
+      "baseline_sha256": "eb49dafb7b95ea111597aa524d95039d3107bde4775e7d5d1b01dff6009a463c",
+      "change": "unchanged"
     },
     {
       "path": "assets/css/components.css",
-      "original_path": "interior-cinema-v2/assets/css/components.css",
-      "original_bytes": 3379,
-      "copied_bytes": 3379,
-      "original_sha256": "d338815623079a1d428e2dcef2170dc574c32ca1cbda5ade1a4c7dc1a569f076",
-      "copied_sha256": "d338815623079a1d428e2dcef2170dc574c32ca1cbda5ade1a4c7dc1a569f076",
-      "change": "byte_identical"
+      "bytes": 3379,
+      "sha256": "d338815623079a1d428e2dcef2170dc574c32ca1cbda5ade1a4c7dc1a569f076",
+      "baseline_sha256": "d338815623079a1d428e2dcef2170dc574c32ca1cbda5ade1a4c7dc1a569f076",
+      "change": "unchanged"
     },
     {
       "path": "assets/css/content-fonts.css",
-      "original_path": "interior-cinema-v2/assets/css/content-fonts.css",
-      "original_bytes": 76,
-      "copied_bytes": 76,
-      "original_sha256": "10cd591278ed4147de9b75ceb6c690a24519fa4202e8ea6fd8429eb73ca8086f",
-      "copied_sha256": "10cd591278ed4147de9b75ceb6c690a24519fa4202e8ea6fd8429eb73ca8086f",
-      "change": "byte_identical"
+      "bytes": 76,
+      "sha256": "10cd591278ed4147de9b75ceb6c690a24519fa4202e8ea6fd8429eb73ca8086f",
+      "baseline_sha256": "10cd591278ed4147de9b75ceb6c690a24519fa4202e8ea6fd8429eb73ca8086f",
+      "change": "unchanged"
     },
     {
       "path": "assets/css/content-interface.css",
-      "original_path": "interior-cinema-v2/assets/css/content-interface.css",
-      "original_bytes": 5726,
-      "copied_bytes": 5726,
-      "original_sha256": "ade8eef33cc73fec6b0cde13c82c188169b7a19c2663867f21a3182255247b77",
-      "copied_sha256": "ade8eef33cc73fec6b0cde13c82c188169b7a19c2663867f21a3182255247b77",
-      "change": "byte_identical"
+      "bytes": 6054,
+      "sha256": "edc4de2ad959cb2051f15a7797fa6c0a34c6d6e6acc46565982cf8483acb8f2a",
+      "baseline_sha256": "ade8eef33cc73fec6b0cde13c82c188169b7a19c2663867f21a3182255247b77",
+      "change": "new_or_changed"
     },
     {
       "path": "assets/css/content-layout.css",
-      "original_path": "interior-cinema-v2/assets/css/content-layout.css",
-      "original_bytes": 19284,
-      "copied_bytes": 19284,
-      "original_sha256": "2897b0e7d3aeb1529dba3f48bb75cde91db9068f10f643251b107c56044a47fa",
-      "copied_sha256": "2897b0e7d3aeb1529dba3f48bb75cde91db9068f10f643251b107c56044a47fa",
-      "change": "byte_identical"
+      "bytes": 19284,
+      "sha256": "2897b0e7d3aeb1529dba3f48bb75cde91db9068f10f643251b107c56044a47fa",
+      "baseline_sha256": "2897b0e7d3aeb1529dba3f48bb75cde91db9068f10f643251b107c56044a47fa",
+      "change": "unchanged"
     },
     {
       "path": "assets/css/layout.css",
-      "original_path": "interior-cinema-v2/assets/css/layout.css",
-      "original_bytes": 4588,
-      "copied_bytes": 4588,
-      "original_sha256": "0a620e3d65cdf0fda318f9ece91dc83152f28423097ac121cf89a40830788dc2",
-      "copied_sha256": "0a620e3d65cdf0fda318f9ece91dc83152f28423097ac121cf89a40830788dc2",
-      "change": "byte_identical"
+      "bytes": 4588,
+      "sha256": "0a620e3d65cdf0fda318f9ece91dc83152f28423097ac121cf89a40830788dc2",
+      "baseline_sha256": "0a620e3d65cdf0fda318f9ece91dc83152f28423097ac121cf89a40830788dc2",
+      "change": "unchanged"
     },
     {
       "path": "assets/css/motion.css",
-      "original_path": "interior-cinema-v2/assets/css/motion.css",
-      "original_bytes": 4631,
-      "copied_bytes": 4631,
-      "original_sha256": "eaa3b26959bf47df4a465fac74328247cf2ee7c5d490f47e083268975712618f",
-      "copied_sha256": "eaa3b26959bf47df4a465fac74328247cf2ee7c5d490f47e083268975712618f",
-      "change": "byte_identical"
+      "bytes": 4631,
+      "sha256": "eaa3b26959bf47df4a465fac74328247cf2ee7c5d490f47e083268975712618f",
+      "baseline_sha256": "eaa3b26959bf47df4a465fac74328247cf2ee7c5d490f47e083268975712618f",
+      "change": "unchanged"
     },
     {
       "path": "assets/css/tokens.css",
-      "original_path": "interior-cinema-v2/assets/css/tokens.css",
-      "original_bytes": 1262,
-      "copied_bytes": 1262,
-      "original_sha256": "41328872d4fdc8371abb8745cb00c12929dcd4a0e2dafac1f03c3973fe8cf346",
-      "copied_sha256": "41328872d4fdc8371abb8745cb00c12929dcd4a0e2dafac1f03c3973fe8cf346",
-      "change": "byte_identical"
+      "bytes": 1262,
+      "sha256": "41328872d4fdc8371abb8745cb00c12929dcd4a0e2dafac1f03c3973fe8cf346",
+      "baseline_sha256": "41328872d4fdc8371abb8745cb00c12929dcd4a0e2dafac1f03c3973fe8cf346",
+      "change": "unchanged"
     },
     {
       "path": "assets/fonts/ibmplexsans-OFL.txt",
-      "original_path": "interior-cinema-v2/assets/fonts/ibmplexsans-OFL.txt",
-      "original_bytes": 4456,
-      "copied_bytes": 4456,
-      "original_sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
-      "copied_sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
-      "change": "byte_identical"
+      "bytes": 4456,
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
+      "baseline_sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
+      "change": "unchanged"
     },
     {
       "path": "assets/fonts/ibmplexsans-cyrillic-ext.woff2",
-      "original_path": "interior-cinema-v2/assets/fonts/ibmplexsans-cyrillic-ext.woff2",
-      "original_bytes": 23568,
-      "copied_bytes": 23568,
-      "original_sha256": "7d0037a170882a49e65a45c38ef195237bb07b1cc791d078379f0ac0d7ae1935",
-      "copied_sha256": "7d0037a170882a49e65a45c38ef195237bb07b1cc791d078379f0ac0d7ae1935",
-      "change": "byte_identical"
+      "bytes": 23568,
+      "sha256": "7d0037a170882a49e65a45c38ef195237bb07b1cc791d078379f0ac0d7ae1935",
+      "baseline_sha256": "7d0037a170882a49e65a45c38ef195237bb07b1cc791d078379f0ac0d7ae1935",
+      "change": "unchanged"
     },
     {
       "path": "assets/fonts/ibmplexsans-cyrillic.woff2",
-      "original_path": "interior-cinema-v2/assets/fonts/ibmplexsans-cyrillic.woff2",
-      "original_bytes": 29512,
-      "copied_bytes": 29512,
-      "original_sha256": "9409ee21811f0f5272b7e1d828fe8838005b0573481ef906e7e55b63f6610ab0",
-      "copied_sha256": "9409ee21811f0f5272b7e1d828fe8838005b0573481ef906e7e55b63f6610ab0",
-      "change": "byte_identical"
+      "bytes": 29512,
+      "sha256": "9409ee21811f0f5272b7e1d828fe8838005b0573481ef906e7e55b63f6610ab0",
+      "baseline_sha256": "9409ee21811f0f5272b7e1d828fe8838005b0573481ef906e7e55b63f6610ab0",
+      "change": "unchanged"
     },
     {
       "path": "assets/fonts/ibmplexsans-latin.woff2",
-      "original_path": "interior-cinema-v2/assets/fonts/ibmplexsans-latin.woff2",
-      "original_bytes": 45712,
-      "copied_bytes": 45712,
-      "original_sha256": "e2291e842cf5af167122a22881a740c7f2dda7716f1e8cd76680264f4a859470",
-      "copied_sha256": "e2291e842cf5af167122a22881a740c7f2dda7716f1e8cd76680264f4a859470",
-      "change": "byte_identical"
+      "bytes": 45712,
+      "sha256": "e2291e842cf5af167122a22881a740c7f2dda7716f1e8cd76680264f4a859470",
+      "baseline_sha256": "e2291e842cf5af167122a22881a740c7f2dda7716f1e8cd76680264f4a859470",
+      "change": "unchanged"
     },
     {
       "path": "assets/fonts/ibmplexsans.css",
-      "original_path": "interior-cinema-v2/assets/fonts/ibmplexsans.css",
-      "original_bytes": 931,
-      "copied_bytes": 931,
-      "original_sha256": "907d8513ecc09faec7ca16f35ffc800b1d2bea31ddc3348413d3ed2f3ec168e8",
-      "copied_sha256": "907d8513ecc09faec7ca16f35ffc800b1d2bea31ddc3348413d3ed2f3ec168e8",
-      "change": "byte_identical"
+      "bytes": 931,
+      "sha256": "907d8513ecc09faec7ca16f35ffc800b1d2bea31ddc3348413d3ed2f3ec168e8",
+      "baseline_sha256": "907d8513ecc09faec7ca16f35ffc800b1d2bea31ddc3348413d3ed2f3ec168e8",
+      "change": "unchanged"
     },
     {
       "path": "assets/fonts/manifest.json",
-      "original_path": "interior-cinema-v2/assets/fonts/manifest.json",
-      "original_bytes": 1698,
-      "copied_bytes": 1698,
-      "original_sha256": "20e0911eb320dc3f424596a9be5f3e771c88b2a93706733271254afd40c53344",
-      "copied_sha256": "20e0911eb320dc3f424596a9be5f3e771c88b2a93706733271254afd40c53344",
-      "change": "byte_identical"
+      "bytes": 1698,
+      "sha256": "20e0911eb320dc3f424596a9be5f3e771c88b2a93706733271254afd40c53344",
+      "baseline_sha256": "20e0911eb320dc3f424596a9be5f3e771c88b2a93706733271254afd40c53344",
+      "change": "unchanged"
     },
     {
       "path": "assets/fonts/prata-OFL.txt",
-      "original_path": "interior-cinema-v2/assets/fonts/prata-OFL.txt",
-      "original_bytes": 4476,
-      "copied_bytes": 4476,
-      "original_sha256": "1e055d25bde41906cc2e1a08bc156e7776d5084e1640d75dbd0065a937b488e3",
-      "copied_sha256": "1e055d25bde41906cc2e1a08bc156e7776d5084e1640d75dbd0065a937b488e3",
-      "change": "byte_identical"
+      "bytes": 4476,
+      "sha256": "1e055d25bde41906cc2e1a08bc156e7776d5084e1640d75dbd0065a937b488e3",
+      "baseline_sha256": "1e055d25bde41906cc2e1a08bc156e7776d5084e1640d75dbd0065a937b488e3",
+      "change": "unchanged"
     },
     {
       "path": "assets/fonts/prata-cyrillic-ext.woff2",
-      "original_path": "interior-cinema-v2/assets/fonts/prata-cyrillic-ext.woff2",
-      "original_bytes": 12868,
-      "copied_bytes": 12868,
-      "original_sha256": "1a71ca94e943aac8154d195f9ea21959d374ebf3a3a9420651d0dbb46253f897",
-      "copied_sha256": "1a71ca94e943aac8154d195f9ea21959d374ebf3a3a9420651d0dbb46253f897",
-      "change": "byte_identical"
+      "bytes": 12868,
+      "sha256": "1a71ca94e943aac8154d195f9ea21959d374ebf3a3a9420651d0dbb46253f897",
+      "baseline_sha256": "1a71ca94e943aac8154d195f9ea21959d374ebf3a3a9420651d0dbb46253f897",
+      "change": "unchanged"
     },
     {
       "path": "assets/fonts/prata-cyrillic.woff2",
-      "original_path": "interior-cinema-v2/assets/fonts/prata-cyrillic.woff2",
-      "original_bytes": 13132,
-      "copied_bytes": 13132,
-      "original_sha256": "3392de5a383deac60effcad2beb8b847f40eb0eb200ffd4888c3e13d6e40845f",
-      "copied_sha256": "3392de5a383deac60effcad2beb8b847f40eb0eb200ffd4888c3e13d6e40845f",
-      "change": "byte_identical"
+      "bytes": 13132,
+      "sha256": "3392de5a383deac60effcad2beb8b847f40eb0eb200ffd4888c3e13d6e40845f",
+      "baseline_sha256": "3392de5a383deac60effcad2beb8b847f40eb0eb200ffd4888c3e13d6e40845f",
+      "change": "unchanged"
     },
     {
       "path": "assets/fonts/prata-latin.woff2",
-      "original_path": "interior-cinema-v2/assets/fonts/prata-latin.woff2",
-      "original_bytes": 19224,
-      "copied_bytes": 19224,
-      "original_sha256": "1b85a8c794709747c9f689b791984c430a2d9716a5cf9440d955bd7d20dad9d0",
-      "copied_sha256": "1b85a8c794709747c9f689b791984c430a2d9716a5cf9440d955bd7d20dad9d0",
-      "change": "byte_identical"
+      "bytes": 19224,
+      "sha256": "1b85a8c794709747c9f689b791984c430a2d9716a5cf9440d955bd7d20dad9d0",
+      "baseline_sha256": "1b85a8c794709747c9f689b791984c430a2d9716a5cf9440d955bd7d20dad9d0",
+      "change": "unchanged"
     },
     {
       "path": "assets/fonts/prata.css",
-      "original_path": "interior-cinema-v2/assets/fonts/prata.css",
-      "original_bytes": 811,
-      "copied_bytes": 811,
-      "original_sha256": "c502b1498f33b5400474ec7573c10e28b0f5f810389e3e79b6efa708e8eed8aa",
-      "copied_sha256": "c502b1498f33b5400474ec7573c10e28b0f5f810389e3e79b6efa708e8eed8aa",
-      "change": "byte_identical"
+      "bytes": 811,
+      "sha256": "c502b1498f33b5400474ec7573c10e28b0f5f810389e3e79b6efa708e8eed8aa",
+      "baseline_sha256": "c502b1498f33b5400474ec7573c10e28b0f5f810389e3e79b6efa708e8eed8aa",
+      "change": "unchanged"
     },
     {
       "path": "assets/icons/apple-touch-icon.png",
-      "original_path": "interior-cinema-v2/assets/icons/apple-touch-icon.png",
-      "original_bytes": 1072,
-      "copied_bytes": 1072,
-      "original_sha256": "1629c340252767230f4a119e137abdb5a9f73bec7cc9418a63d6ab89a41786d8",
-      "copied_sha256": "1629c340252767230f4a119e137abdb5a9f73bec7cc9418a63d6ab89a41786d8",
-      "change": "byte_identical"
+      "bytes": 1072,
+      "sha256": "1629c340252767230f4a119e137abdb5a9f73bec7cc9418a63d6ab89a41786d8",
+      "baseline_sha256": "1629c340252767230f4a119e137abdb5a9f73bec7cc9418a63d6ab89a41786d8",
+      "change": "unchanged"
     },
     {
       "path": "assets/icons/favicon-16.png",
-      "original_path": "interior-cinema-v2/assets/icons/favicon-16.png",
-      "original_bytes": 308,
-      "copied_bytes": 308,
-      "original_sha256": "b69eb60b290739a64401efbd999276b986ed9734a0d832e99efc825cc9af4596",
-      "copied_sha256": "b69eb60b290739a64401efbd999276b986ed9734a0d832e99efc825cc9af4596",
-      "change": "byte_identical"
+      "bytes": 308,
+      "sha256": "b69eb60b290739a64401efbd999276b986ed9734a0d832e99efc825cc9af4596",
+      "baseline_sha256": "b69eb60b290739a64401efbd999276b986ed9734a0d832e99efc825cc9af4596",
+      "change": "unchanged"
     },
     {
       "path": "assets/icons/favicon-32.png",
-      "original_path": "interior-cinema-v2/assets/icons/favicon-32.png",
-      "original_bytes": 432,
-      "copied_bytes": 432,
-      "original_sha256": "76c855df2eea32272f113f5acfcd3690b51eb99df1c82cbf9e1392e2bfa680fc",
-      "copied_sha256": "76c855df2eea32272f113f5acfcd3690b51eb99df1c82cbf9e1392e2bfa680fc",
-      "change": "byte_identical"
+      "bytes": 432,
+      "sha256": "76c855df2eea32272f113f5acfcd3690b51eb99df1c82cbf9e1392e2bfa680fc",
+      "baseline_sha256": "76c855df2eea32272f113f5acfcd3690b51eb99df1c82cbf9e1392e2bfa680fc",
+      "change": "unchanged"
     },
     {
       "path": "assets/icons/favicon.ico",
-      "original_path": "interior-cinema-v2/assets/icons/favicon.ico",
-      "original_bytes": 1293,
-      "copied_bytes": 1293,
-      "original_sha256": "7177ed73664bd042b1a4b692df21bdda85f694a24cc459553e8eb3a6f4a56a36",
-      "copied_sha256": "7177ed73664bd042b1a4b692df21bdda85f694a24cc459553e8eb3a6f4a56a36",
-      "change": "byte_identical"
+      "bytes": 1293,
+      "sha256": "7177ed73664bd042b1a4b692df21bdda85f694a24cc459553e8eb3a6f4a56a36",
+      "baseline_sha256": "7177ed73664bd042b1a4b692df21bdda85f694a24cc459553e8eb3a6f4a56a36",
+      "change": "unchanged"
     },
     {
       "path": "assets/icons/favicon.svg",
-      "original_path": "interior-cinema-v2/assets/icons/favicon.svg",
-      "original_bytes": 174,
-      "copied_bytes": 174,
-      "original_sha256": "2e9c8cad6c52d6ef1e29dfa4b2d700af9d17d00a2405fac7fa982a4e5d2e4c1e",
-      "copied_sha256": "2e9c8cad6c52d6ef1e29dfa4b2d700af9d17d00a2405fac7fa982a4e5d2e4c1e",
-      "change": "byte_identical"
+      "bytes": 174,
+      "sha256": "2e9c8cad6c52d6ef1e29dfa4b2d700af9d17d00a2405fac7fa982a4e5d2e4c1e",
+      "baseline_sha256": "2e9c8cad6c52d6ef1e29dfa4b2d700af9d17d00a2405fac7fa982a4e5d2e4c1e",
+      "change": "unchanged"
     },
     {
       "path": "assets/icons/icon-192.png",
-      "original_path": "interior-cinema-v2/assets/icons/icon-192.png",
-      "original_bytes": 1064,
-      "copied_bytes": 1064,
-      "original_sha256": "ea62fe92823e5560b580b7c9cd67fcb87531f1b0c2208e4a515b1aeb432ea8f7",
-      "copied_sha256": "ea62fe92823e5560b580b7c9cd67fcb87531f1b0c2208e4a515b1aeb432ea8f7",
-      "change": "byte_identical"
+      "bytes": 1064,
+      "sha256": "ea62fe92823e5560b580b7c9cd67fcb87531f1b0c2208e4a515b1aeb432ea8f7",
+      "baseline_sha256": "ea62fe92823e5560b580b7c9cd67fcb87531f1b0c2208e4a515b1aeb432ea8f7",
+      "change": "unchanged"
     },
     {
       "path": "assets/icons/icon-512.png",
-      "original_path": "interior-cinema-v2/assets/icons/icon-512.png",
-      "original_bytes": 1923,
-      "copied_bytes": 1923,
-      "original_sha256": "fe4196a6fe322f34da038ea61df0e21809eab9532e3b4929eeba10f4c97e45c9",
-      "copied_sha256": "fe4196a6fe322f34da038ea61df0e21809eab9532e3b4929eeba10f4c97e45c9",
-      "change": "byte_identical"
+      "bytes": 1923,
+      "sha256": "fe4196a6fe322f34da038ea61df0e21809eab9532e3b4929eeba10f4c97e45c9",
+      "baseline_sha256": "fe4196a6fe322f34da038ea61df0e21809eab9532e3b4929eeba10f4c97e45c9",
+      "change": "unchanged"
     },
     {
       "path": "assets/img/content-r3/bedroom-1122.webp",
-      "original_path": "interior-cinema-v2/assets/img/content-r3/bedroom-1122.webp",
-      "original_bytes": 276154,
-      "copied_bytes": 276154,
-      "original_sha256": "ed0516d401298bb4003047884e41327a057a9502b85d2f2fc8135a5d2cce21a7",
-      "copied_sha256": "ed0516d401298bb4003047884e41327a057a9502b85d2f2fc8135a5d2cce21a7",
-      "change": "byte_identical"
+      "bytes": 276154,
+      "sha256": "ed0516d401298bb4003047884e41327a057a9502b85d2f2fc8135a5d2cce21a7",
+      "baseline_sha256": "ed0516d401298bb4003047884e41327a057a9502b85d2f2fc8135a5d2cce21a7",
+      "change": "unchanged"
     },
     {
       "path": "assets/img/content-r3/bedroom-640.webp",
-      "original_path": "interior-cinema-v2/assets/img/content-r3/bedroom-640.webp",
-      "original_bytes": 100340,
-      "copied_bytes": 100340,
-      "original_sha256": "44645163b8d6787f0407aaac8247a00e3d47bd25b339544bfcdd5a7d045116e1",
-      "copied_sha256": "44645163b8d6787f0407aaac8247a00e3d47bd25b339544bfcdd5a7d045116e1",
-      "change": "byte_identical"
+      "bytes": 100340,
+      "sha256": "44645163b8d6787f0407aaac8247a00e3d47bd25b339544bfcdd5a7d045116e1",
+      "baseline_sha256": "44645163b8d6787f0407aaac8247a00e3d47bd25b339544bfcdd5a7d045116e1",
+      "change": "unchanged"
     },
     {
       "path": "assets/img/content-r3/bedroom-960.webp",
-      "original_path": "interior-cinema-v2/assets/img/content-r3/bedroom-960.webp",
-      "original_bytes": 180058,
-      "copied_bytes": 180058,
-      "original_sha256": "bba565b946dc3c78827c73544c692f9894e7b39a899bdf354b911170e9cfbf6b",
-      "copied_sha256": "bba565b946dc3c78827c73544c692f9894e7b39a899bdf354b911170e9cfbf6b",
-      "change": "byte_identical"
+      "bytes": 180058,
+      "sha256": "bba565b946dc3c78827c73544c692f9894e7b39a899bdf354b911170e9cfbf6b",
+      "baseline_sha256": "bba565b946dc3c78827c73544c692f9894e7b39a899bdf354b911170e9cfbf6b",
+      "change": "unchanged"
     },
     {
       "path": "assets/img/content-r3/bench-1448.webp",
-      "original_path": "interior-cinema-v2/assets/img/content-r3/bench-1448.webp",
-      "original_bytes": 202598,
-      "copied_bytes": 202598,
-      "original_sha256": "051e1370a3c3fae4744f03ff123aa3fc5ef5ffe7233796fb33f0592a5199053d",
-      "copied_sha256": "051e1370a3c3fae4744f03ff123aa3fc5ef5ffe7233796fb33f0592a5199053d",
-      "change": "byte_identical"
+      "bytes": 202598,
+      "sha256": "051e1370a3c3fae4744f03ff123aa3fc5ef5ffe7233796fb33f0592a5199053d",
+      "baseline_sha256": "051e1370a3c3fae4744f03ff123aa3fc5ef5ffe7233796fb33f0592a5199053d",
+      "change": "unchanged"
     },
     {
       "path": "assets/img/content-r3/bench-640.webp",
-      "original_path": "interior-cinema-v2/assets/img/content-r3/bench-640.webp",
-      "original_bytes": 47038,
-      "copied_bytes": 47038,
-      "original_sha256": "6ceecd6e09e50c301367ff269a74a4357797c4e7c1ec4e1804882c89b33dd955",
-      "copied_sha256": "6ceecd6e09e50c301367ff269a74a4357797c4e7c1ec4e1804882c89b33dd955",
-      "change": "byte_identical"
+      "bytes": 47038,
+      "sha256": "6ceecd6e09e50c301367ff269a74a4357797c4e7c1ec4e1804882c89b33dd955",
+      "baseline_sha256": "6ceecd6e09e50c301367ff269a74a4357797c4e7c1ec4e1804882c89b33dd955",
+      "change": "unchanged"
     },
     {
       "path": "assets/img/content-r3/bench-960.webp",
-      "original_path": "interior-cinema-v2/assets/img/content-r3/bench-960.webp",
-      "original_bytes": 102742,
-      "copied_bytes": 102742,
-      "original_sha256": "9d72363aa555a2d97d096b158729c476fb04bbfca09619a4f37857bde1b964d4",
-      "copied_sha256": "9d72363aa555a2d97d096b158729c476fb04bbfca09619a4f37857bde1b964d4",
-      "change": "byte_identical"
+      "bytes": 102742,
+      "sha256": "9d72363aa555a2d97d096b158729c476fb04bbfca09619a4f37857bde1b964d4",
+      "baseline_sha256": "9d72363aa555a2d97d096b158729c476fb04bbfca09619a4f37857bde1b964d4",
+      "change": "unchanged"
     },
     {
       "path": "assets/img/content-r3/bench-node.svg",
-      "original_path": "interior-cinema-v2/assets/img/content-r3/bench-node.svg",
-      "original_bytes": 1062,
-      "copied_bytes": 1062,
-      "original_sha256": "56cc6e902a423b977afc23bffb69f096f7fc99dba05e82e3126ab5f65f16a061",
-      "copied_sha256": "56cc6e902a423b977afc23bffb69f096f7fc99dba05e82e3126ab5f65f16a061",
-      "change": "byte_identical"
+      "bytes": 1051,
+      "sha256": "0228624bbeb6ca9ff2f8fe7d27ee29e7cc2f87a08f4d8481023798b4c2206aa4",
+      "baseline_sha256": "56cc6e902a423b977afc23bffb69f096f7fc99dba05e82e3126ab5f65f16a061",
+      "change": "new_or_changed"
     },
     {
       "path": "assets/img/content-r3/document.svg",
-      "original_path": "interior-cinema-v2/assets/img/content-r3/document.svg",
-      "original_bytes": 1384,
-      "copied_bytes": 1384,
-      "original_sha256": "5edbf2eb2e9acef06458e2f5d40d63f01d0524f4f0f9db8367979915f66d35cd",
-      "copied_sha256": "5edbf2eb2e9acef06458e2f5d40d63f01d0524f4f0f9db8367979915f66d35cd",
-      "change": "byte_identical"
+      "bytes": 1345,
+      "sha256": "4f2b5e0617aae3060565fade043b76ca1163722719fc6d82818ff9c8511abb6d",
+      "baseline_sha256": "5edbf2eb2e9acef06458e2f5d40d63f01d0524f4f0f9db8367979915f66d35cd",
+      "change": "new_or_changed"
     },
     {
       "path": "assets/img/content-r3/plan.svg",
-      "original_path": "interior-cinema-v2/assets/img/content-r3/plan.svg",
-      "original_bytes": 1329,
-      "copied_bytes": 1329,
-      "original_sha256": "02f74047ecfa14eae432b2cd2d7995cf7e6f9a63091bb4ca1057318cfda77d94",
-      "copied_sha256": "02f74047ecfa14eae432b2cd2d7995cf7e6f9a63091bb4ca1057318cfda77d94",
-      "change": "byte_identical"
+      "bytes": 1318,
+      "sha256": "b0435a01067b9f46303429b62c0d8d04da8a27fdc269ac19dfe493b98c710316",
+      "baseline_sha256": "02f74047ecfa14eae432b2cd2d7995cf7e6f9a63091bb4ca1057318cfda77d94",
+      "change": "new_or_changed"
     },
     {
       "path": "assets/img/content-r3/provenance.json",
-      "original_path": "interior-cinema-v2/assets/img/content-r3/provenance.json",
-      "original_bytes": 2054,
-      "copied_bytes": 2054,
-      "original_sha256": "c8c3f719603a742297f2b84f41537a30aaaa222f9d3a8e271dc6abfc316b0236",
-      "copied_sha256": "c8c3f719603a742297f2b84f41537a30aaaa222f9d3a8e271dc6abfc316b0236",
-      "change": "byte_identical"
+      "bytes": 2054,
+      "sha256": "c8c3f719603a742297f2b84f41537a30aaaa222f9d3a8e271dc6abfc316b0236",
+      "baseline_sha256": "c8c3f719603a742297f2b84f41537a30aaaa222f9d3a8e271dc6abfc316b0236",
+      "change": "unchanged"
     },
     {
       "path": "assets/img/content-r3/survey.svg",
-      "original_path": "interior-cinema-v2/assets/img/content-r3/survey.svg",
-      "original_bytes": 1573,
-      "copied_bytes": 1573,
-      "original_sha256": "3fcba33fbbf684baae148d1aaa4a1ef571a625cc2635faf6c8f3fc91d39a11da",
-      "copied_sha256": "3fcba33fbbf684baae148d1aaa4a1ef571a625cc2635faf6c8f3fc91d39a11da",
-      "change": "byte_identical"
+      "bytes": 1562,
+      "sha256": "c34be4d7fe8af72d8e45121211536aac46b081574ffb125ad009b3cc17eb84f1",
+      "baseline_sha256": "3fcba33fbbf684baae148d1aaa4a1ef571a625cc2635faf6c8f3fc91d39a11da",
+      "change": "new_or_changed"
     },
     {
       "path": "assets/img/hero-1672.webp",
-      "original_path": "interior-cinema-v2/assets/img/hero-1672.webp",
-      "original_bytes": 221624,
-      "copied_bytes": 221624,
-      "original_sha256": "236e9e3787c763a7d79701ab2fff534e9bbd57cecdc241d6a9f5eac43a1317ff",
-      "copied_sha256": "236e9e3787c763a7d79701ab2fff534e9bbd57cecdc241d6a9f5eac43a1317ff",
-      "change": "byte_identical"
+      "bytes": 221624,
+      "sha256": "236e9e3787c763a7d79701ab2fff534e9bbd57cecdc241d6a9f5eac43a1317ff",
+      "baseline_sha256": "236e9e3787c763a7d79701ab2fff534e9bbd57cecdc241d6a9f5eac43a1317ff",
+      "change": "unchanged"
     },
     {
       "path": "assets/img/hero-960.webp",
-      "original_path": "interior-cinema-v2/assets/img/hero-960.webp",
-      "original_bytes": 95042,
-      "copied_bytes": 95042,
-      "original_sha256": "3b1989044e0d14affe759465d823bdce43e4234caed501f388473c87b76c563f",
-      "copied_sha256": "3b1989044e0d14affe759465d823bdce43e4234caed501f388473c87b76c563f",
-      "change": "byte_identical"
+      "bytes": 95042,
+      "sha256": "3b1989044e0d14affe759465d823bdce43e4234caed501f388473c87b76c563f",
+      "baseline_sha256": "3b1989044e0d14affe759465d823bdce43e4234caed501f388473c87b76c563f",
+      "change": "unchanged"
     },
     {
       "path": "assets/img/interior-1672.webp",
-      "original_path": "interior-cinema-v2/assets/img/interior-1672.webp",
-      "original_bytes": 275090,
-      "copied_bytes": 275090,
-      "original_sha256": "fcd88ccdcab00817bc58682a3f20c5fde4ca344395841b528caa24232161814e",
-      "copied_sha256": "fcd88ccdcab00817bc58682a3f20c5fde4ca344395841b528caa24232161814e",
-      "change": "byte_identical"
+      "bytes": 275090,
+      "sha256": "fcd88ccdcab00817bc58682a3f20c5fde4ca344395841b528caa24232161814e",
+      "baseline_sha256": "fcd88ccdcab00817bc58682a3f20c5fde4ca344395841b528caa24232161814e",
+      "change": "unchanged"
     },
     {
       "path": "assets/img/interior-960.webp",
-      "original_path": "interior-cinema-v2/assets/img/interior-960.webp",
-      "original_bytes": 116596,
-      "copied_bytes": 116596,
-      "original_sha256": "254b0357d24faadf2bbd482e944ad7c0e32ae709c5138383ff3b628ef93207f3",
-      "copied_sha256": "254b0357d24faadf2bbd482e944ad7c0e32ae709c5138383ff3b628ef93207f3",
-      "change": "byte_identical"
+      "bytes": 116596,
+      "sha256": "254b0357d24faadf2bbd482e944ad7c0e32ae709c5138383ff3b628ef93207f3",
+      "baseline_sha256": "254b0357d24faadf2bbd482e944ad7c0e32ae709c5138383ff3b628ef93207f3",
+      "change": "unchanged"
     },
     {
       "path": "assets/img/mineral-bedroom-1448.webp",
-      "original_path": "interior-cinema-v2/assets/img/mineral-bedroom-1448.webp",
-      "original_bytes": 227176,
-      "copied_bytes": 227176,
-      "original_sha256": "cbcb1556ed78238a2390eae627d1c139c88ba201766efdd4d5cffb4aa2b44df4",
-      "copied_sha256": "cbcb1556ed78238a2390eae627d1c139c88ba201766efdd4d5cffb4aa2b44df4",
-      "change": "byte_identical"
+      "bytes": 227176,
+      "sha256": "cbcb1556ed78238a2390eae627d1c139c88ba201766efdd4d5cffb4aa2b44df4",
+      "baseline_sha256": "cbcb1556ed78238a2390eae627d1c139c88ba201766efdd4d5cffb4aa2b44df4",
+      "change": "unchanged"
     },
     {
       "path": "assets/img/provenance.json",
-      "original_path": "interior-cinema-v2/assets/img/provenance.json",
-      "original_bytes": 637,
-      "copied_bytes": 637,
-      "original_sha256": "553b29fd2fd5656acb860959bb80ea209ab73cf125d39c4af6c134c5f010c108",
-      "copied_sha256": "553b29fd2fd5656acb860959bb80ea209ab73cf125d39c4af6c134c5f010c108",
-      "change": "byte_identical"
+      "bytes": 637,
+      "sha256": "553b29fd2fd5656acb860959bb80ea209ab73cf125d39c4af6c134c5f010c108",
+      "baseline_sha256": "553b29fd2fd5656acb860959bb80ea209ab73cf125d39c4af6c134c5f010c108",
+      "change": "unchanged"
     },
     {
       "path": "assets/img/timber-house-1448.webp",
-      "original_path": "interior-cinema-v2/assets/img/timber-house-1448.webp",
-      "original_bytes": 312718,
-      "copied_bytes": 312718,
-      "original_sha256": "3eb998246cfcbb17defed335507368fd0abf1c278efbf089f9202ccd9d02193e",
-      "copied_sha256": "3eb998246cfcbb17defed335507368fd0abf1c278efbf089f9202ccd9d02193e",
-      "change": "byte_identical"
+      "bytes": 312718,
+      "sha256": "3eb998246cfcbb17defed335507368fd0abf1c278efbf089f9202ccd9d02193e",
+      "baseline_sha256": "3eb998246cfcbb17defed335507368fd0abf1c278efbf089f9202ccd9d02193e",
+      "change": "unchanged"
     },
     {
       "path": "assets/js/content.js",
-      "original_path": "interior-cinema-v2/assets/js/content.js",
-      "original_bytes": 5861,
-      "copied_bytes": 5861,
-      "original_sha256": "274fc563465a1abdb2272a8bbe0ebea0207a2af9f4b20019dff68ddbc5272abe",
-      "copied_sha256": "274fc563465a1abdb2272a8bbe0ebea0207a2af9f4b20019dff68ddbc5272abe",
-      "change": "byte_identical"
+      "bytes": 8755,
+      "sha256": "6330d153a5accd0d7bee276d7b1a22f90ac5bfb346367f3c11ad43e2082484b3",
+      "baseline_sha256": "274fc563465a1abdb2272a8bbe0ebea0207a2af9f4b20019dff68ddbc5272abe",
+      "change": "new_or_changed"
     },
     {
       "path": "assets/js/main.js",
-      "original_path": "interior-cinema-v2/assets/js/main.js",
-      "original_bytes": 5491,
-      "copied_bytes": 5491,
-      "original_sha256": "4c7c041519992885808a310a340ae88c4eef7ee1f89a855759a368b9e54405bb",
-      "copied_sha256": "4c7c041519992885808a310a340ae88c4eef7ee1f89a855759a368b9e54405bb",
-      "change": "byte_identical"
+      "bytes": 5491,
+      "sha256": "4c7c041519992885808a310a340ae88c4eef7ee1f89a855759a368b9e54405bb",
+      "baseline_sha256": "4c7c041519992885808a310a340ae88c4eef7ee1f89a855759a368b9e54405bb",
+      "change": "unchanged"
     },
     {
       "path": "assets/js/vendor/ScrollTrigger.min.js",
-      "original_path": "interior-cinema-v2/assets/js/vendor/ScrollTrigger.min.js",
-      "original_bytes": 44157,
-      "copied_bytes": 44157,
-      "original_sha256": "308219390e5e3b84cda0c481e70caa9820883ae10bda44e6e9a149a81aac4b3f",
-      "copied_sha256": "308219390e5e3b84cda0c481e70caa9820883ae10bda44e6e9a149a81aac4b3f",
-      "change": "byte_identical"
+      "bytes": 44157,
+      "sha256": "308219390e5e3b84cda0c481e70caa9820883ae10bda44e6e9a149a81aac4b3f",
+      "baseline_sha256": "308219390e5e3b84cda0c481e70caa9820883ae10bda44e6e9a149a81aac4b3f",
+      "change": "unchanged"
     },
     {
       "path": "assets/js/vendor/gsap-package.json",
-      "original_path": "interior-cinema-v2/assets/js/vendor/gsap-package.json",
-      "original_bytes": 1676,
-      "copied_bytes": 1676,
-      "original_sha256": "cba3c19e7852db942fcbd895c8a05e791490e72a20e28c228b86ed4d268615c4",
-      "copied_sha256": "cba3c19e7852db942fcbd895c8a05e791490e72a20e28c228b86ed4d268615c4",
-      "change": "byte_identical"
+      "bytes": 1676,
+      "sha256": "cba3c19e7852db942fcbd895c8a05e791490e72a20e28c228b86ed4d268615c4",
+      "baseline_sha256": "cba3c19e7852db942fcbd895c8a05e791490e72a20e28c228b86ed4d268615c4",
+      "change": "unchanged"
     },
     {
       "path": "assets/js/vendor/gsap.min.js",
-      "original_path": "interior-cinema-v2/assets/js/vendor/gsap.min.js",
-      "original_bytes": 72435,
-      "copied_bytes": 72435,
-      "original_sha256": "96c01b81f44a3290e2b4532f55e2c9534b2adc43273a19f3756b2cb41f0fd0b6",
-      "copied_sha256": "96c01b81f44a3290e2b4532f55e2c9534b2adc43273a19f3756b2cb41f0fd0b6",
-      "change": "byte_identical"
+      "bytes": 72435,
+      "sha256": "96c01b81f44a3290e2b4532f55e2c9534b2adc43273a19f3756b2cb41f0fd0b6",
+      "baseline_sha256": "96c01b81f44a3290e2b4532f55e2c9534b2adc43273a19f3756b2cb41f0fd0b6",
+      "change": "unchanged"
     },
     {
       "path": "assets/masks/environment.svg",
-      "original_path": "interior-cinema-v2/assets/masks/environment.svg",
-      "original_bytes": 679,
-      "copied_bytes": 679,
-      "original_sha256": "adf42c396d53262265eb3e3bfc45640a9d84aa73e7ca0b40e0cb53d43241f0ef",
-      "copied_sha256": "adf42c396d53262265eb3e3bfc45640a9d84aa73e7ca0b40e0cb53d43241f0ef",
-      "change": "byte_identical"
+      "bytes": 679,
+      "sha256": "adf42c396d53262265eb3e3bfc45640a9d84aa73e7ca0b40e0cb53d43241f0ef",
+      "baseline_sha256": "adf42c396d53262265eb3e3bfc45640a9d84aa73e7ca0b40e0cb53d43241f0ef",
+      "change": "unchanged"
+    },
+    {
+      "path": "build.py",
+      "bytes": 2400,
+      "sha256": "b4c8980dd0fd7dadf5a8fc9dcda7a06828218385b122c649c6612da3aaa33d38",
+      "baseline_sha256": "b4c8980dd0fd7dadf5a8fc9dcda7a06828218385b122c649c6612da3aaa33d38",
+      "change": "unchanged"
+    },
+    {
+      "path": "index.html",
+      "bytes": 37400,
+      "sha256": "30413430c4edcad64a6e72c08a7f45b895fb43f2bab3ba934448aa18bf9c106d",
+      "baseline_sha256": "02d98ad4171d2837995b8b7d1a2f825557cf4d975361260b92b3cc92be696e0f",
+      "change": "new_or_changed"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 145,
+      "sha256": "3f6420c0e4a40d2e5c00ae798cb5d9b38210c904ed946a015e6600316b8974e3",
+      "baseline_sha256": "3f6420c0e4a40d2e5c00ae798cb5d9b38210c904ed946a015e6600316b8974e3",
+      "change": "unchanged"
+    },
+    {
+      "path": "site.webmanifest",
+      "bytes": 503,
+      "sha256": "4bf9155566727d4c6c2e8e19acea63f3ffad5c572f3792c82e4e08e282bd17e7",
+      "baseline_sha256": "31a1ed8e75a3e491dc8f299f3e7a5b946beaf5a34e1ee5045bc40510322859f2",
+      "change": "new_or_changed"
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 166,
+      "sha256": "8d22e5c289583cb613a481e23b49fd9b06801ab3a38976575c61e3d167ceffc3",
+      "baseline_sha256": "8d22e5c289583cb613a481e23b49fd9b06801ab3a38976575c61e3d167ceffc3",
+      "change": "unchanged"
     }
   ]
 }

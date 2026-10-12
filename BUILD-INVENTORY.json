@@ -7,8 +7,8 @@
   "files": [
     {
       "path": "index.html",
-      "bytes": 37189,
-      "sha256": "02d98ad4171d2837995b8b7d1a2f825557cf4d975361260b92b3cc92be696e0f"
+      "bytes": 37400,
+      "sha256": "30413430c4edcad64a6e72c08a7f45b895fb43f2bab3ba934448aa18bf9c106d"
     },
     {
       "path": "robots.txt",
@@ -22,8 +22,8 @@
     },
     {
       "path": "site.webmanifest",
-      "bytes": 537,
-      "sha256": "31a1ed8e75a3e491dc8f299f3e7a5b946beaf5a34e1ee5045bc40510322859f2"
+      "bytes": 503,
+      "sha256": "4bf9155566727d4c6c2e8e19acea63f3ffad5c572f3792c82e4e08e282bd17e7"
     },
     {
       "path": ".nojekyll",
@@ -47,8 +47,8 @@
     },
     {
       "path": "assets/css/content-interface.css",
-      "bytes": 5726,
-      "sha256": "ade8eef33cc73fec6b0cde13c82c188169b7a19c2663867f21a3182255247b77"
+      "bytes": 6054,
+      "sha256": "edc4de2ad959cb2051f15a7797fa6c0a34c6d6e6acc46565982cf8483acb8f2a"
     },
     {
       "path": "assets/css/content-layout.css",
@@ -192,23 +192,23 @@
     },
     {
       "path": "assets/img/content-r3/bench-node.svg",
-      "bytes": 1062,
-      "sha256": "56cc6e902a423b977afc23bffb69f096f7fc99dba05e82e3126ab5f65f16a061"
+      "bytes": 1051,
+      "sha256": "0228624bbeb6ca9ff2f8fe7d27ee29e7cc2f87a08f4d8481023798b4c2206aa4"
     },
     {
       "path": "assets/img/content-r3/document.svg",
-      "bytes": 1384,
-      "sha256": "5edbf2eb2e9acef06458e2f5d40d63f01d0524f4f0f9db8367979915f66d35cd"
+      "bytes": 1345,
+      "sha256": "4f2b5e0617aae3060565fade043b76ca1163722719fc6d82818ff9c8511abb6d"
     },
     {
       "path": "assets/img/content-r3/plan.svg",
-      "bytes": 1329,
-      "sha256": "02f74047ecfa14eae432b2cd2d7995cf7e6f9a63091bb4ca1057318cfda77d94"
+      "bytes": 1318,
+      "sha256": "b0435a01067b9f46303429b62c0d8d04da8a27fdc269ac19dfe493b98c710316"
     },
     {
       "path": "assets/img/content-r3/survey.svg",
-      "bytes": 1573,
-      "sha256": "3fcba33fbbf684baae148d1aaa4a1ef571a625cc2635faf6c8f3fc91d39a11da"
+      "bytes": 1562,
+      "sha256": "c34be4d7fe8af72d8e45121211536aac46b081574ffb125ad009b3cc17eb84f1"
     },
     {
       "path": "assets/img/hero-1672.webp",
@@ -242,8 +242,8 @@
     },
     {
       "path": "assets/js/content.js",
-      "bytes": 5861,
-      "sha256": "274fc563465a1abdb2272a8bbe0ebea0207a2af9f4b20019dff68ddbc5272abe"
+      "bytes": 8755,
+      "sha256": "6330d153a5accd0d7bee276d7b1a22f90ac5bfb346367f3c11ad43e2082484b3"
     },
     {
       "path": "assets/js/main.js",
